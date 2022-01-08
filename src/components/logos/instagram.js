@@ -1,5 +1,7 @@
 // ASCII for Instagram LOGO: Intergration Function
 
+// ASCII arrays stored in the DB and called by the func to be passed to renderImage() or stored as JSON on the server???
+
 // const instagram = {
 
 //     // or just the converted output as say a 16/32/64 x 16/32/64 etc square array rather than converting the visidata each time instead of just storing prefabs in JSON ready to work
