@@ -1,6 +1,7 @@
 // ASCII for Instagram LOGO: Intergration Function
 
 // ASCII arrays stored in the DB and called by the func to be passed to renderImage() or stored as JSON on the server???
+// Temp first implementation just use imgs/svgs for simplicity, write functionality to use custom ASCII ones later
 
 // const instagram = {
 

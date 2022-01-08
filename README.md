@@ -29,3 +29,5 @@ STATELY rerender the relevant parts of the grid
 
 Have some contact info section (in browser email/messenging)
 Links to insta/twitter/fb/whatever (tastful || even better tastfully stylised to fit (in a way that sticks out enough to a user but is unobtrustive)...(fuck maybe build a function to add them as watermarks all tied to a </Link> to the relevant, so they're like intergrated characters from preset ascii, that the algo can overlap/replace set positions with the ascii logos > maybe have this as the default visual of the image and have a hide button to look at it without)). ...Have the ascii for the logo tied together, if any are hovered 'highlights'/'colour shifts' the whole logo's group (defined somewhere in the func to draw them into the JSON, pass down to the animation handling functions) 
+
+Mouse Hover || Arrow Keys || Tab interaction with grid sys and site
